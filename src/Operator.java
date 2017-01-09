@@ -255,7 +255,7 @@ public class Operator {
 		}
 		
 		public String getDirection(){
-			return this.directions.substring(currentDirection, currentDirection);
+			return this.directions.substring(currentDirection, currentDirection+1);
 		}
 		
 	}

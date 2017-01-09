@@ -1,0 +1,7 @@
+4 4
+1 2 N
+LRL
+2 2 E
+LLMRM
+4 4 N
+MRMRM

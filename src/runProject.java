@@ -2,12 +2,14 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+
+//main antigo que foi utilizado para testes
 public class runProject {
-	public static void main(String []args){
+	/*public static void main(String []args){
 		Upland upland;
 		Scanner sc;
 		try {
-			sc = new Scanner(new File("inputElo7.txt"));
+			sc = new Scanner(new File("segundoTeste.txt"));
 			int width = sc.nextInt() + 1;
 			int height = sc.nextInt() + 1;
 			upland = new Upland(width, height);
@@ -26,4 +28,5 @@ public class runProject {
 		}
 
 	}
+	*/
 }
